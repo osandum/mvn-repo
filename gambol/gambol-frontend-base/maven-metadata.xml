@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gambol</groupId>
+  <artifactId>gambol-frontend-base</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170916183417</lastUpdated>
+  </versioning>
+</metadata>
