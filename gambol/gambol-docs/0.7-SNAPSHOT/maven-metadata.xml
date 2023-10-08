@@ -3,21 +3,21 @@
   <groupId>gambol</groupId>
   <artifactId>gambol-docs</artifactId>
   <versioning>
-    <lastUpdated>20231008122946</lastUpdated>
+    <lastUpdated>20231008130400</lastUpdated>
     <snapshot>
-      <timestamp>20231008.122946</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20231008.130400</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.7-20231008.122946-1</value>
-        <updated>20231008122946</updated>
+        <value>0.7-20231008.130400-2</value>
+        <updated>20231008130400</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.7-20231008.122946-1</value>
-        <updated>20231008122946</updated>
+        <value>0.7-20231008.130400-2</value>
+        <updated>20231008130400</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
