@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>gambol</groupId>
+  <artifactId>gambol-docs</artifactId>
+  <versioning>
+    <lastUpdated>20231008122946</lastUpdated>
+    <snapshot>
+      <timestamp>20231008.122946</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.7-20231008.122946-1</value>
+        <updated>20231008122946</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.7-20231008.122946-1</value>
+        <updated>20231008122946</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.7-SNAPSHOT</version>
+</metadata>
